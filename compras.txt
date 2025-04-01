@@ -1,0 +1,3 @@
+Banana,50,1.0
+Ovo,12,10.0
+Cenoura,5,2.0
